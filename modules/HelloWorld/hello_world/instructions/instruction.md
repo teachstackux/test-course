@@ -15,7 +15,7 @@ In Python, we use the ```print()``` function to display output from our program.
 
 Here's how you can write your first program with Python:
 
-- To display a simple message saying "Hello World!" you can use the print function as follows: ```print("Hello World!")```. Type this into the main.py file open in the text editor in the middle of the screen.
+- To display a simple message saying "Hello World!" you can use the print function as follows: ```print("Hello World!")```. Type this into the main.py file open in the text editor in the centre of the screen.
 
 - Use the 'Run Program' button in the bottom left-hand corner of the screen to run your code. Once you've managed to print "Hello World!" to the console, try changing the double-quotes ```"``` to single-quotes ```'``` and see what happens.
 
